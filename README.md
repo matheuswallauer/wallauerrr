@@ -3,6 +3,6 @@
 
 Meu nome é Matheus Rafael Wallauer, 21, estudante de desenvolvimento web full stack e apaixonado por carros!
 
-- :office_worker: Estagiário no Lauck Advogados http://www.lauckadvogados.com.br/
+- :office_work: Estagiário no Lauck Advogados http://www.lauckadvogados.com.br/
 - :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
 - :books: Estudando: AWS, Relay & GraphQL 
