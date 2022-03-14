@@ -5,4 +5,4 @@ Meu nome é Matheus Rafael Wallauer, 21, estudante de desenvolvimento web full s
 
 - :bulb: Estagiário no Lauck Advogados http://www.lauckadvogados.com.br/
 - :books: Estudando no momento: HTML
-- :rocket: Curdo: Developer Web Full Stack 7º edition
+- :rocket: Curso: Developer Web Full Stack 7º edition
